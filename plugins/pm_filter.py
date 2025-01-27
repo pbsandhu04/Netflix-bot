@@ -798,7 +798,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ],
         [
           InlineKeyboardButton('🔐 ғsᴜʙ', callback_data='fsub'),
-          ('🗣️ ᴀɪ ᴛᴛs', callback_data='tts')],[
+          ('🗣️ ᴀɪ ᴛᴛs', callback_data='tts')],
+		   [
         ('ᴀᴅᴍɪɴ ᴄᴍᴅ', callback_data='admincmd'),
 	    ('⋞ ʜᴏᴍᴇ', callback_data='start')
         ]] 
